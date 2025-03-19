@@ -1,0 +1,12 @@
+1
+[d10, sQ, d2, s2, s7, c9, c2]
+[c6, d4, s8, h9, h2, d8, c10]
+[s4, d7, dK, s6, s3, d3, s10]
+[cK, h3, dJ, c5, d6, s9, s5]
+[cQ]
+[sK, c3, cJ, hJ, sJ, hA, d9, c7, h5, h7, h4, h6, cA, h8, c4, dA, d5, hQ, sA, c8, hK, dQ, h10]
+0
+0
+0
+0
+3
